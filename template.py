@@ -8,7 +8,11 @@ list_of_files=[
     "static/style.css",
     "templates/index.html",
     "data/raw.csv",
+<<<<<<< HEAD
     "app.py"
+=======
+    ""
+>>>>>>> 17eeb227e0cdb59a71b57acd60bdcfdb8a341db4
     
 ]
 
